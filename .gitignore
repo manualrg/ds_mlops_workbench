@@ -1,0 +1,9 @@
+.venv
+.vscode
+.env
+.ipynb_checkpoints
+.cache
+.local
+.trash
+__pycache__/
+data/
